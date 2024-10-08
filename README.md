@@ -8,4 +8,6 @@
   - **_DBngin_**
 - Instalar MYSQL
   - **_npm install --save mysql2_**
+- Alojar Base de Datos
+  - **_PlanetScale_**
 - 
